@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Taoufik 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing things.
 
