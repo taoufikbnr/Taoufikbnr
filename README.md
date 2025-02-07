@@ -51,7 +51,7 @@ Here are some technologies I use and enjoy working with:
 
 Here are my GitHub stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taoufik-BENNOUR&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taoufik-BENNOUR&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical](https://github-readme-stats-eight-theta.vercel.app/api?username=taoufik-bennour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github-readme-stats-eight-theta.vercel.app/api?username=taoufik-bennour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true))
 
 ---
 
