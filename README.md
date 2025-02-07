@@ -51,7 +51,7 @@ Here are some technologies I use and enjoy working with:
 
 Here are my GitHub stats:
 
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=naderfyi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=taoufik-bennour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ---
 
